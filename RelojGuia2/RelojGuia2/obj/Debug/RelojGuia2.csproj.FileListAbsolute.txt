@@ -1,0 +1,10 @@
+C:\Users\garay\OneDrive\Escritorio\Proyectos\RelojGuia2\RelojGuia2\bin\Debug\RelojGuia2.exe.config
+C:\Users\garay\OneDrive\Escritorio\Proyectos\RelojGuia2\RelojGuia2\bin\Debug\RelojGuia2.exe
+C:\Users\garay\OneDrive\Escritorio\Proyectos\RelojGuia2\RelojGuia2\bin\Debug\RelojGuia2.pdb
+C:\Users\garay\OneDrive\Escritorio\Proyectos\RelojGuia2\RelojGuia2\obj\Debug\RelojGuia2.csproj.AssemblyReference.cache
+C:\Users\garay\OneDrive\Escritorio\Proyectos\RelojGuia2\RelojGuia2\obj\Debug\RelojGuia2.Pantalla.resources
+C:\Users\garay\OneDrive\Escritorio\Proyectos\RelojGuia2\RelojGuia2\obj\Debug\RelojGuia2.Properties.Resources.resources
+C:\Users\garay\OneDrive\Escritorio\Proyectos\RelojGuia2\RelojGuia2\obj\Debug\RelojGuia2.csproj.GenerateResource.cache
+C:\Users\garay\OneDrive\Escritorio\Proyectos\RelojGuia2\RelojGuia2\obj\Debug\RelojGuia2.csproj.CoreCompileInputs.cache
+C:\Users\garay\OneDrive\Escritorio\Proyectos\RelojGuia2\RelojGuia2\obj\Debug\RelojGuia2.exe
+C:\Users\garay\OneDrive\Escritorio\Proyectos\RelojGuia2\RelojGuia2\obj\Debug\RelojGuia2.pdb
